@@ -1,0 +1,27 @@
+# Arquivos temporários e backups
+*.tmp
+*.bak
+*.old
+*~
+
+# Arquivos de backup do Flowgorithm
+*.fprg.bak
+*.fprg~
+*.fprg.tmp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Arquivos de compilação e depuração
+*.exe
+*.out
+*.o
+*.obj
+*.stackdump
+core
